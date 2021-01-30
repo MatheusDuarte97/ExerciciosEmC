@@ -1,2 +1,3 @@
 # ExerciciosEmC
- Alguns exercicios
+ Alguns exercicios feito em C
+ Logica de programação
