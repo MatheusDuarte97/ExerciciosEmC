@@ -1,0 +1,2 @@
+# ExerciciosEmC
+ Alguns exercicios
